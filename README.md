@@ -12,7 +12,7 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#andrushaweber-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/c48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
       </a>
       <br>Javascript
     </td>
