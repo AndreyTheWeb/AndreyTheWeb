@@ -1,5 +1,5 @@
 <a href="https://github.com/AndreyTheWeb">
-<img src="https://github.com/AndreyTheWeb/AndreyTheWeb/blob/main/assets/github-header-image.png" alt="andrushaweber" align="center"/>
+<img src="https://github.com/AndreyTheWeb/AndreyTheWeb/blob/main/assets/github-header-image%20(1).png?raw=true" alt="andrushaweber" align="center"/>
 </a>
 
 <br>
