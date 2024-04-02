@@ -66,13 +66,13 @@
     </td>
 		   <td align="center" width="110" height="90">
       <a href="#andrushaweber-stack" >
-        <img src="☄️" width="36" height="36" alt="effector" />
+        <img src="https://raw.githubusercontent.com/effector/effector/master/website/client/static/img/comet.svg" width="36" height="36" alt="effector" />
       </a>
       <br>Effector
     </td>
  <td align="center" width="110" height="90">
       <a href="#andrushaweber-stack" >
-        <img width="36" height="36" alt="Redux" >☄️</div>
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
