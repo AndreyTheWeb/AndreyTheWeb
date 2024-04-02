@@ -72,7 +72,7 @@
     </td>
  <td align="center" width="110" height="90">
       <a href="#andrushaweber-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+        <img width="36" height="36" alt="Redux" >☄️</div>
       </a>
       <br>Redux
     </td>
