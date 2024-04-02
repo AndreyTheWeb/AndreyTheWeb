@@ -64,43 +64,17 @@
       </a>
       <br>Next JS
     </td>
+		   <td align="center" width="110" height="90">
+      <a href="#andrushaweber-stack" >
+        <img src="☄️" width="36" height="36" alt="effector" />
+      </a>
+      <br>Effector
+    </td>
  <td align="center" width="110" height="90">
       <a href="#andrushaweber-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#andrushaweber-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#andrushaweber-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center"  width="96">
-      <a href="#andrushaweber-stack">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="36" height="36" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#andrushaweber-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr> 
-    <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#andrushaweber-stack" >
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
-      </a>
-      <br>Apollo
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#andrushaweber-stack" >
@@ -114,18 +88,6 @@
       </a>
       <br>Vite
     </td> 
-    <td align="center" width="110" height="90">
-      <a href="#andrushaweber-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#andrushaweber-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
   </tr> 
 </table>
 
