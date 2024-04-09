@@ -4,6 +4,8 @@
 
 <br>
 
+<br>
+
 I'm a software developer, and I'm passionate about crafting digital experiences.
 
 - Check out [VSCode Configuration](https://github.com/AndreyTheWeb/vscode-config) for development optimization.
