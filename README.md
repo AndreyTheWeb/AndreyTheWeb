@@ -29,4 +29,4 @@ I'm a software developer, and I'm passionate about crafting digital experiences.
 
 ## 📫 Contact
 
-For a quick response, DM me on [Telegram](https://t.me/Gospel2k) or join my [Telegram channel (coming soon)]().
+For a quick response, DM me on [Telegram](https://t.me/Gospel2k) or join my [Telegram channel](https://t.me/fedosdotcom1).
