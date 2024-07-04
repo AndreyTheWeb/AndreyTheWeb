@@ -12,7 +12,7 @@ I'm a software developer, and I'm passionate about crafting digital experiences.
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `TypeScript` `Next.js` `Tailwind` `HTML` `CSS`
+**Frontend Development:** `React` `TypeScript` `Next.js`
 
 **Version Control:** `Git` `GitLab` `GitHub`
 
@@ -20,7 +20,7 @@ I'm a software developer, and I'm passionate about crafting digital experiences.
 
 **Testing:** `Cypress` `Playwright` `Jest` `Postman`
 
-**Others:** `Storybook` `Eslint` `Stylelint` `Prettier` `Confluence` `Jira`
+**Others:** `Code quality tools` `Storybook` `Confluence` `Jira`
 
 ## ✨ Fun Facts
 
