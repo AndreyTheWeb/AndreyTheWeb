@@ -22,10 +22,6 @@ I'm a software developer, and I'm passionate about crafting digital experiences.
 
 **Others:** `Code quality tools` `Storybook` `Confluence` `Jira`
 
-## ✨ Fun Facts
-
-- Demon Slayer is my favorite anime.
-- I love using Mac after switching from Linux.
 
 ## 📫 Contact
 
