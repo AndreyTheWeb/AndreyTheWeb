@@ -12,7 +12,7 @@ I'm a software developer, and I'm passionate about crafting digital experiences.
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `TypeScript` `Next.js`
+**Frontend Development:** `TypeScript` `React` `Next.js` `Svelte`
 
 **Version Control:** `Git` `GitLab` `GitHub`
 
