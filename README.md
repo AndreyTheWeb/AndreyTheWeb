@@ -25,4 +25,6 @@ I'm a software developer, and I'm passionate about crafting digital experiences.
 
 ## 📫 Contact
 
+Check out [my site](https://fedosdotcom.tech/)
+
 For a quick response, DM me on [Telegram](https://t.me/Gospel2k) or join my [Telegram channel](https://t.me/fedosdotcom1).
